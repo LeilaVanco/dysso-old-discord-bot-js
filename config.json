@@ -1,5 +1,5 @@
 {
-    "token": "your token",
-    "DeveloperID": "907264292431224842",
-    "DatabaseURL": "your mongodb compass database url"
+    "token": "your_token",
+    "DeveloperID": "your_id",
+    "DatabaseURL": "your_mongodb_compass_database_url"
 }
